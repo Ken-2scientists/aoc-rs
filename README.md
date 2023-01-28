@@ -1,2 +1,2 @@
 # aoc-rs
-Solutions to Advent of Code implemented in Rust
+Solutions to [Advent of Code](https://adventofcode.com) implemented in Rust
